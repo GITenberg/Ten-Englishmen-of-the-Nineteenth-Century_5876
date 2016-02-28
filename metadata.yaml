@@ -1,0 +1,29 @@
+_repo: Ten-Englishmen-of-the-Nineteenth-Century_5876
+alternative_title: 10 Englishmen of the 19th Century
+creator:
+  author:
+    agent_name: Joy, James Richard
+    birthdate: 1863
+    deathdate: 1957
+    gutenberg_agent_id: '1890'
+    url: http://www.gutenberg.org/2009/agents/1890
+description: ''
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5876'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'England -- Biography'
+tableOfContents: 'Introduction: England in the nineteenth century -- Wellington, and
+  the struggle with Napoleon -- George Canning and European affairs -- Stephenson
+  and the railway -- Russell and parliamentary reform -- Cobden and free trade --
+  Peel and administrative reforms -- Shaftesbury and philanthropy -- Lord Palmerston
+  and foreign relations -- Gladstone and the Irish question -- Beaconsfield and the
+  British Empire.'
+title: Ten Englishmen of the Nineteenth Century
+url: http://www.gutenberg.org/ebooks/5876
