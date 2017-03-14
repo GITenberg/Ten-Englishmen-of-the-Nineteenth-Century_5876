@@ -1,6 +1,9 @@
 _repo: Ten-Englishmen-of-the-Nineteenth-Century_5876
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: 10 Englishmen of the 19th Century
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Joy, James Richard
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '1890'
     url: http://www.gutenberg.org/2009/agents/1890
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5876#Ten-Englishmen-of-the-Nineteenth-Century
 gutenberg_issued: '2004-06-01'
 gutenberg_type: Text
 identifiers:
