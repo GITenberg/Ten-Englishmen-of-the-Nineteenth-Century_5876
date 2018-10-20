@@ -1,5 +1,5 @@
 _repo: Ten-Englishmen-of-the-Nineteenth-Century_5876
-_version: 0.2.0
+_version: 0.2.1
 alternative_title: 10 Englishmen of the 19th Century
 covers:
 - cover_type: generated
@@ -25,6 +25,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'DA'
 - !lcsh 'England -- Biography'
+- GITenberg
 tableOfContents: 'Introduction: England in the nineteenth century -- Wellington, and
   the struggle with Napoleon -- George Canning and European affairs -- Stephenson
   and the railway -- Russell and parliamentary reform -- Cobden and free trade --
